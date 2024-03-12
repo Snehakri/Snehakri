@@ -1,18 +1,22 @@
-### Hi ,I'm Sneha👋
+### ✨ Hi, I'm Sneha 👋 ✨
 Student at VIT Bhopal
 
 - 🌱 I’m currently learning DSA with C++
 
+  🌍 Socials : 
+  
   🌐 LinkedIn : https://www.linkedin.com/in/sneha-kumari-087952227/
 
-  💫 Coding Platforms : 💫
+  💫 Coding Platforms : 
   
-  ⚡ Leetcode : https://leetcode.com/sneha_k047/
-  ⚡ Geeksforgeeks : https://auth.geeksforgeeks.org/user/snehakum19jk
-  ⚡ Codechef : https://www.codechef.com/users/snehakri
+ - ⚡ Leetcode : https://leetcode.com/sneha_k047/
+   
+ - ⚡ Geeksforgeeks : https://auth.geeksforgeeks.org/user/snehakum19jk
+   
+ - ⚡ Codechef : https://www.codechef.com/users/snehakri
   
 
-  💫 Technical Skills
+  💎 Technical Skills :
   
   - DSA
     
@@ -20,9 +24,9 @@ Student at VIT Bhopal
     
   - JAVA
     
-  - Python
-    
   - HTML/CSS/JS
+    
+  - Python
 
 
    ![coding-freak](https://github.com/Snehakri/Snehakri/assets/95474769/37507b8a-0482-4cc5-904d-3eb91ca53c84)
