@@ -7,11 +7,13 @@ Student at VIT Bhopal
 
   Technical Skills
   -DSA
-  -C/C++![coding-freak](https://github.com/Snehakri/Snehakri/assets/95474769/37507b8a-0482-4cc5-904d-3eb91ca53c84)
-
+  -C/C++
   -JAVA
   -Python
   -HTML/CSS/JS
+
+
+   ![coding-freak](https://github.com/Snehakri/Snehakri/assets/95474769/37507b8a-0482-4cc5-904d-3eb91ca53c84)
   
 <!--
 **Snehakri/Snehakri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
